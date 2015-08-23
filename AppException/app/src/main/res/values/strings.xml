@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppException</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_error">ENVIAR ERROR</string>
+    <string name="mail_error">emedinaa@gmail.com</string>
+</resources>
